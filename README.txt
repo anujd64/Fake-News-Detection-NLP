@@ -1,4 +1,4 @@
-For Count Vectorizer:
+For CountVectorizer:
 1.Taking data from kaggle of 20800 data
 2.Preprocessing : Remove RE, special character, remove stop words, make all lower case
 3.USe bag of words method to make feature matrix with 5000 max features and most 3 consecutive words range.
