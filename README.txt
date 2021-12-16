@@ -14,3 +14,6 @@ For TF-IDF:
 4.Default train test split
 5.Train six different ML algorithms to the processed dataset.
 
+
+LSTM:
+A sequential deep learning model has been implemented using LSTM architecture for binary text classification that performed better with around 99% accuracy. The dataset has been collected from Kaggle and is of the size 20800. The task was to predict if the news is fake or real. Therefore, the pretrained Glove text embedding algorithm has been used as a text vectorization technique. Besides, several classical models have been implemented with BOW, TF-IDF text vectorization methods. Therefore, the LSTM based deep learning model performs better to classify news.
